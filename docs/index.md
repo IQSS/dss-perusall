@@ -1,7 +1,7 @@
 ---
 title: "Perusall"
 author: ""
-date: "`r format(Sys.Date(), '%B %Y')`"
+date: "January 2021"
 description: "This is a tutorial for using Perusall"
 github-repo: "IQSS/dss-perusall"
 site: "bookdown::bookdown_site"

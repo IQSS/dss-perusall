@@ -1,12 +1,11 @@
-book_filename: 'template'
+book_filename: 'perusall'
 
 output_dir: docs
 
-repo: https://github.com/IQSS/dss-template
+repo: https://github.com/IQSS/dss-perusall
 
 rmd_files:
   - "index.Rmd"
-  - "01_chapter.Rmd"
 
 delete_merged_file: true
 
