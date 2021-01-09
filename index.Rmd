@@ -16,7 +16,7 @@ link-citations: yes
 [Perusal](https://perusall.com/) is a browser-based software platform for interactive learning.
 
 
-# Why are we using Perusall? {-}
+## Why are we using Perusall? {-}
 
 Some of our Data Science Workshops are being taught using a "flipped classroom" model --- this is where lecture-based material is delivered asyncronously so that it can be digested at your own pace, which provides more time for Q&A discussion during in-class time. 
 
@@ -42,6 +42,12 @@ During the two week self-study period, you can highlight sections of the worksho
 
 ## How to answer a question
 
+
+# Zoom-based Q&A session
+
+After the two-week self-study period, we will host a one-hour live Q&A session via Zoom. No new material will be presented during this session -- rather, this will be an additional opportunity to ask questions and get feedback about the materials. The instructor will use the questions submitted on Perusall as a starting point for discussion and possibly for short code demonstrations illustrating conceptual or syntactical stumbling blocks. 
+
+All participants will initially be entered into a Zoom waiting room and the presenter will admit them to the session. Any participants arriving in the wait room more than 5 mins past the listed start time of the session will not be admitted. 
 
 
 ### Authors and Sources {-}
