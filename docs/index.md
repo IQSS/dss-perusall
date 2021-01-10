@@ -15,6 +15,8 @@ link-citations: yes
 
 [Perusal](https://perusall.com/) is a browser-based software platform for interactive learning. Students help each other learn by collectively annotating readings in threads, responding to each other’s comments, and interacting. Perusall can bring the interactivity of a small seminar to a larger course.
 
+![](images/perusall_landing_page.png)
+
 
 ## Why are we using Perusall? {-}
 
