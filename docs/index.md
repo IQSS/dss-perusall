@@ -31,16 +31,36 @@ You should have received an email asking you to create an account at <https://pe
 
 During the two week self-study period, you can highlight sections of the workshop materials you wish to ask questions about, add comments, as well as respond to questions and comments from other participants. The window for submitting questions will close 24 hours prior to the Zoom Q&A session.
 
-## Perusall layout
+## My courses
+
+![](images/1_my_courses.png)
 
 
-## How to highlight text
+## Get started
+
+![](images/2_get_started.png)
 
 
-## How to ask a question
+## Assignments
+
+![](images/3_assignments.png)
+
+![](images/4_instructions.png)
 
 
-## How to answer a question
+## Layout
+
+![](images/5_layout.png)
+
+
+## Ask a question
+
+![](images/6_ask_question.png)
+
+
+## Answer a question
+
+![](images/7_answer_question.png)
 
 
 # Zoom-based Q&A session {-}
