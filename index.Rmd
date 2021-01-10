@@ -33,34 +33,56 @@ During the two week self-study period, you can highlight sections of the worksho
 
 ## My courses
 
+Once you have logged into Perusall and entered your course code, you should see the name of the workshop you have registered for listed under `My courses` (highlighted in red in the image below). 
+
 ![](images/1_my_courses.png)
+
+Click on the name of the workshop to proceed.
 
 
 ## Get started
+
+You will now enter the `Course home` page, under the `Get started` tab. This page provides some basic information about Perusall. At the top of the page, there are two other tabs --- `Library` and `Assignments`. Click on the latter (highlighted in red in the image below).
 
 ![](images/2_get_started.png)
 
 
 ## Assignments
 
+You will now enter the `Assignments` page. For your workshop, there will be only one assigment. To start working on the assignment, click on the `Work on assignment` button (highlighted in red in the image below).
+
 ![](images/3_assignments.png)
+
+You will enter a new page and be presented with a popup window of instructions. Once you've read the instructions, click `End tour` in the bottom right of the popup (highlighted in red in the image below).
 
 ![](images/4_instructions.png)
 
 
 ## Layout
 
+You will now enter a new page where the main screen is divided into a left and right panel. On the left, you can view the workshop materials as a pdf file. You can scroll through the materials as you work on them. On the right, you will see a panel called `Current conversation`, which should be blank.
+
 ![](images/5_layout.png)
+
+You're now ready to start! You can work through the materials at your own pace.
 
 
 ## Ask a question
 
+As you work through the materials, you may have questions or comments about the content. You can ask a question or make a comment by simply highlighting the part of the text that you'd like to refer to (see highlighted code chunk in left side panel below). Once the text is highlighted, a text window opens in the right side `Current conversation` panel (highlighted in red in the image below). You can type your question here. Your question could be in plain English, or include code. 
+
 ![](images/6_ask_question.png)
+
+Once you have finished typing your question press enter/return. Your question will now be visible to the instructor and other workshop participants. Don't be shy --- **there are no stupid questions!!!**
 
 
 ## Answer a question
 
+If you see a comment or question that you can help with, please try to answer it yourself! There will be a text window under the most recent part of the conversation thread, which you can write your reply in (highlighted in red in the image below). This is a great way to learn, since we often learn best by teaching others. Feel free to ask as many additional questions as your want within the same conversation thread.
+
 ![](images/7_answer_question.png)
+
+The above process repeats itself whenever you reach part of the materials you have a question about: `highlight text` -> `type question`. 
 
 
 # Zoom-based Q&A session {-}
